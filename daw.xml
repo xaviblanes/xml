@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="llistar.xsl"?>
+
+<daw>
+<nom>Desenrotllament d'aplicacions web</nom>
+<hores>2000</hores>
+<grau>superior</grau>
+<mòduls>
+    <mòdul>
+        <codi>0373</codi>
+        <nom>Llenguatges de Marques i Sistemes de Gestió d’Informació</nom>
+        <hores>96</hores>
+        <curs>1</curs>
+    </mòdul>
+    
+    <mòdul>
+        <codi>0483</codi>
+        <nom>Sistemes Informàtics</nom>
+        <hores>160</hores>
+        <curs>1</curs>
+    </mòdul>
+    
+    <mòdul>
+        <codi>0484</codi>
+        <nom>Bases de Dades</nom>
+        <hores>160</hores>
+        <curs>1</curs>
+    </mòdul>
+    
+    <mòdul>
+        <codi>0485</codi>
+        <nom>Programació</nom>
+        <hores>256</hores>
+        <curs>1</curs>
+    </mòdul>
+    
+    <mòdul>
+        <codi>0487</codi>
+        <nom>Entorns de Desenrotllament</nom>
+        <hores>96</hores>
+        <curs>1</curs>
+    </mòdul>
+    
+    <mòdul>
+        <codi>0612</codi>
+        <nom>Desenrotllament Web en Entorn Client</nom>
+        <hores>140</hores>
+        <curs>2</curs>
+    </mòdul>
+    
+    <mòdul>
+        <codi>0613</codi>
+        <nom>Desenrotllament Web en Entorn Servidor</nom>
+        <hores>160</hores>
+        <curs>2</curs>
+    </mòdul>
+    
+    <mòdul>
+        <codi>0614</codi>
+        <nom>Desplegament d’Aplicacions Web</nom>
+        <hores>80</hores>
+        <curs>2</curs>
+    </mòdul>
+    
+    <mòdul>
+        <codi>0615</codi>
+        <nom>Disseny d’Interfícies Web</nom>
+        <hores>120</hores>
+        <curs>2</curs>
+    </mòdul>
+    
+    <mòdul>
+        <codi>0616</codi>
+        <nom>Projecte DAW</nom>
+        <hores>40</hores>
+        <curs>2</curs>
+    </mòdul>
+</mòduls>
+</daw>
+
